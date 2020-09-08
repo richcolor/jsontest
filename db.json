@@ -1,4 +1,7 @@
 {
+"EFMBAppVersion":
+{
+
   "Header": 
     {
       "MsgId": 1,
@@ -12,5 +15,6 @@
   "Body": {
     "DeviceType": "typicode",
 	"ClientAppVersion":"100"
+  }
   }
 }

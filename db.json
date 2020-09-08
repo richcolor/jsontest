@@ -4,16 +4,16 @@
 
   "Header": 
     {
-      "MsgId": 1,
-      "From": "hello",
-	  "To":"",
-	  "Timestamp":"",
-	  "UID":"",
+      "MsgId": "EFMB.Chk",
+      "From": "EFMBA",
+	  "To":"EFMBAPI",
+	  "Timestamp":"20200908121212",
+	  "UID":"wwwww",
 	  "Direction":"Req"
     }
  ,
   "Body": {
-    "DeviceType": "typicode",
+    "DeviceType": "1",
 	"ClientAppVersion":"100"
   }
   }

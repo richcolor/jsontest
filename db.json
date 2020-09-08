@@ -1,0 +1,16 @@
+{
+  "Header": 
+    {
+      "MsgId": 1,
+      "From": "hello",
+	  "To":"",
+	  "Timestamp":"",
+	  "UID":"",
+	  "Direction":"Req"
+    }
+ ,
+  "Body": {
+    "DeviceType": "typicode",
+	"ClientAppVersion":"100"
+  }
+}
